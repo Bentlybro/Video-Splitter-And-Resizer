@@ -3,6 +3,8 @@ Just a simple python script that will take any video in and it will split the vi
 
 This script uses "moviepy" which will require you to run "pip install moviepy"
 
+and you *need* to make sure you have ffmpeg setup correctly
+
 When you run the script it will open a file browser for you to select a video file, choose the video file will be split into 5 minute sections
 
 ![show](https://github.com/Bentlybro/Video-Splitter-And-Resizer/assets/27962737/3dbf0096-ae67-4292-906c-32553ea1a22e)
